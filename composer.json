@@ -1,0 +1,13 @@
+{
+    "name": "whoismattdavies/aaaugur",
+    "description": "Screen reader logging, predict what a screen reader will output",
+    "require": {
+        "symfony/console": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "mattdavies",
+            "email": "matthew.davies@jacobbailey.com"
+        }
+    ]
+}
